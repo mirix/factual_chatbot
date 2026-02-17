@@ -16,7 +16,7 @@ Uncensuring is absolutely crucial when objectivity is the goal.
 Uncensored models also “reason” a bit better. As do humans.
 
 
-The Q8 quants can be run with under 16GB of RAM and the with 10, with vanilla LLAMA CPP, if you keep the context length within reason.
+The Q8 quants can be run with under 16GB of RAM and the Q4 with 10, on vanilla LLAMA CPP, if you keep the context length within reason.
 
  
 
